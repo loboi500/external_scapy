@@ -1,13 +1,3 @@
-@echo off
-set PYTHONPATH=%cd%
-set PYTHONDONTWRITEBYTECODE=True
-if "%1"=="--nopause" (
-  set nopause="True"
-  python -m scapy.__init__
-) else (
-  set nopause="False"
-  python -m scapy.__init__ %*
-)
-if %errorlevel%==1 if NOT "%nopause%"=="True" (
-   PAUSE
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62ea996dd6d151c636d35dd6cb1f0aef5e473e9ab5a6b3bd30aa25d70925cb5
+size 269

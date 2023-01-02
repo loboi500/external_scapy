@@ -1,7 +1,3 @@
-# *** TAKE SPECIAL CARE WHEN VENDORING IN THIS PROJECT.
-#
-#     DOCUMENTATION FILES LIKE doc/scapy/index.rst MAY HAVE CC-BY-NC-SA
-#     LICENSE. GOOGLE DOES NOT WANT TO HOST CC-BY-NC* CONTENT. ***
-third_party {
-  license_type: RESTRICTED
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd409c3f8dcf1725d29949dd69ef6db268cecabdf087063578ddf11597f529c5
+size 240

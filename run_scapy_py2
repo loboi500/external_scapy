@@ -1,3 +1,3 @@
-#! /bin/sh
-PYTHON=python2
-. $(dirname $0)/run_scapy "$@"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e80780a5f908ddb04917686148d3a10baa04f25d6ed858e0dd4f326d26422bad
+size 57
